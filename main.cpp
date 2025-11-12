@@ -22,4 +22,4 @@ int main(){
     vistor.displayInfo();
     return 0;
 
-}
+};
